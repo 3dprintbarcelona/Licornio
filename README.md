@@ -8,7 +8,7 @@ Modelo diseñado para imprimir durante la 3D Printing Fest 2019. Más detalles e
 Importante, para poder llevar preparado el laminado de las piezas las hemos dividido en cuatro grupos, que repartiremos entre los participantes.
 
 **Grupo1**
-* Pom x 7
+* Pom x 8
 * Accessori pinzell rotatori x 2
 
 **Grupo2**
