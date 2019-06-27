@@ -4,7 +4,7 @@ Licornio diseñado por el Grupo 3D Print Barcelona para asociaciones locales de 
 
 Modelo diseñado para imprimir durante la 3D Printing Fest 2019. Más detalles en http://3dprintbarcelona.org
 
-Ficheros a imprimir durante la 3D Printing Fest y cantidad de cada uno
+**Ficheros a imprimir durante la 3D Printing Fest y cantidad de cada uno**
 * Pom x 7
 * Ròtula 3 cargols A
 * Ròtula 3 cargols B
@@ -16,7 +16,7 @@ Ficheros a imprimir durante la 3D Printing Fest y cantidad de cada uno
 * Corba davantera
 * Corba darrera
 
-Piezas opcionales
+**Piezas opcionales**
 * Accessori bola doble 45
 * Accessori bola doble 90
 * Accessori bola doble plana
