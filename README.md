@@ -35,4 +35,6 @@ La impresión se debe hacer con soportes en lso grupos que se indica.
 Cálculo con impresión a 0.2 mm de altura de capa y 4 capas de top y bottom layers y wall thickness de 2 perímetros. Velocidad 60 mm/s.
 
 Modelo diseñado por miembros del grupo 3D Print Barcelona.
-Partiendo de varias piezas del diseño de Ceapat en [Thingiverse](https://www.thingiverse.com/thing:2542267).
+Partiendo de varias piezas del diseño de Ceapat en [Thingiverse Licornio](https://www.thingiverse.com/thing:2542267).
+
+Busto de Einstein para los renders diseñado por LSMiniatures y descargado de [Thingiverse Einstein](https://www.thingiverse.com/thing:966908)
