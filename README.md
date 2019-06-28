@@ -30,10 +30,21 @@ Importante, para poder llevar preparado el laminado de las piezas las hemos divi
 * Accessori bola doble 90
 * Accessori bola doble plana
 
-El tiempo estimado total para las piezas (sin opcionales) es de 10h15' con 110g de material.
-La impresión se debe hacer con soportes en lso grupos que se indica.
-Cálculo con impresión a 0.2 mm de altura de capa y 4 capas de top y bottom layers y wall thickness de 2 perímetros. Velocidad 60 mm/s.
+**Recomendaciones para el laminado**
+El tiempo estimado total para las piezas (sin opcionales) es de 10h15' con 110g de material, así que la recomendación es partirla en los grupos que indicamos.
 
+La impresión se debe hacer con soportes en los grupos que se indica (3 y 4).
+
+Hemos hecho el cálculo de impresión con los siguientes parámetros:
+* Altura de capa / layer height: a 0.2 mm
+* Top y bottom layers: 4 capas
+* Wall thickness / ancho de pared: 2 perímetros
+* Infill / relleno: 20%
+* Velocidad: 60 mm/s.
+
+Pero aplica los que sen más apropiados para tu máquina.
+
+**Créditos**
 Modelo diseñado por miembros del grupo 3D Print Barcelona.
 Partiendo de varias piezas del diseño de Ceapat en [Thingiverse Licornio](https://www.thingiverse.com/thing:2542267).
 
